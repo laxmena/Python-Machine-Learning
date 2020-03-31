@@ -1,0 +1,10 @@
+SNo	DateTime	TotalSamplesTested	TotalIndividualsTested	TotalPositiveCases	Source
+1	18/03/20 18:00	13125	12235	150	ICMR_website_update_18March_6PM_IST.pdf
+2	19/03/20 18:00	14175	13285	182	ICMR_website_update_19March_6PM_IST.pdf
+3	20/03/20 18:00	15404	14514	236	ICMR_website_update_20March_6PM_IST.pdf
+4	21/03/20 18:00	16911	16021	315	ICMR_website_update_21March_6PM_IST.pdf
+5	22/03/20 18:00	18127	17237	396	ICMR_website_update_22March_6PM_IST.pdf
+6	23/03/20 20:00	20707	19817	471	ICMR_website_update_23March_8PM_IST.pdf
+7	24/03/20 20:00	22694	21804	536	ICMR_website_update_24March_8PM_IST.pdf
+8	25/03/20 20:00	25144	24254	581	ICMR_website_update_25March_8PM_IST.pdf
+9	27/03/20 09:00	27688	26798	691	ICMR_website_update_27March_9AM_IST.pdf
